@@ -16,7 +16,7 @@ for the **Apple App Store** and **Google Play** — in one app for Windows, macO
 [![Google Play](https://img.shields.io/badge/Google%20Play-10B981?logo=googleplay&logoColor=white)](https://appsqeez.com/features)
 [![Free plan](https://img.shields.io/badge/free%20plan-available-10B981)](https://appsqeez.com/pricing)
 
-**[Download](#download)** · [Website](https://appsqeez.com) · [Documentation](https://appsqeez.com/docs) · [Pricing](https://appsqeez.com/pricing) · [Release notes](https://github.com/Sqeez-Studio/appsqeez-desktop/releases)
+**[Download](#download)** · [Website](https://appsqeez.com/?utm_source=github) · [Documentation](https://appsqeez.com/docs) · [Pricing](https://appsqeez.com/pricing) · [Release notes](https://github.com/Sqeez-Studio/appsqeez-desktop/releases)
 
 <a href="https://appsqeez.com/features"><img src="assets/screenshots/dashboard-overview.webp" alt="AppSqeez showing all your apps with their competitors, keyword rankings, and store screenshots" width="100%"></a>
 
