@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://appsqeez.com"><img src="assets/logo.png" alt="AppSqeez logo" width="96" height="96"></a>
+<a href="https://getappsqeez.com"><img src="assets/logo.png" alt="AppSqeez logo" width="96" height="96"></a>
 
 # AppSqeez Desktop
 
@@ -12,13 +12,13 @@ for the **Apple App Store** and **Google Play** — in one app for Windows, macO
 [![Latest release](https://img.shields.io/github/v/release/Sqeez-Studio/appsqeez-desktop?label=latest&color=2E6FF2)](https://github.com/Sqeez-Studio/appsqeez-desktop/releases/latest)
 [![Release date](https://img.shields.io/github/release-date/Sqeez-Studio/appsqeez-desktop?label=released&color=2E6FF2)](https://github.com/Sqeez-Studio/appsqeez-desktop/releases/latest)
 [![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Linux-2E6FF2)](#download)
-[![App Store](https://img.shields.io/badge/App%20Store-0D96F6?logo=appstore&logoColor=white)](https://appsqeez.com/features)
-[![Google Play](https://img.shields.io/badge/Google%20Play-10B981?logo=googleplay&logoColor=white)](https://appsqeez.com/features)
-[![Free plan](https://img.shields.io/badge/free%20plan-available-10B981)](https://appsqeez.com/pricing)
+[![App Store](https://img.shields.io/badge/App%20Store-0D96F6?logo=appstore&logoColor=white)](https://getappsqeez.com/features)
+[![Google Play](https://img.shields.io/badge/Google%20Play-10B981?logo=googleplay&logoColor=white)](https://getappsqeez.com/features)
+[![Free plan](https://img.shields.io/badge/free%20plan-available-10B981)](https://getappsqeez.com/pricing)
 
-**[Download](#download)** · [Website](https://appsqeez.com/?utm_source=github) · [Documentation](https://appsqeez.com/docs) · [Pricing](https://appsqeez.com/pricing) · [Release notes](https://github.com/Sqeez-Studio/appsqeez-desktop/releases)
+**[Download](#download)** · [Website](https://getappsqeez.com) · [Documentation](https://getappsqeez.com/docs) · [Pricing](https://getappsqeez.com/pricing) · [Release notes](https://github.com/Sqeez-Studio/appsqeez-desktop/releases)
 
-<a href="https://appsqeez.com/features"><img src="assets/screenshots/dashboard-overview.webp" alt="AppSqeez showing all your apps with their competitors, keyword rankings, and store screenshots" width="100%"></a>
+<a href="https://getappsqeez.com/features"><img src="assets/screenshots/dashboard-overview.webp" alt="AppSqeez dashboard with nine apps across ten App Store and Google Play cards showing rankings, ratings, downloads, and revenue" width="100%"></a>
 
 </div>
 
@@ -30,7 +30,7 @@ for the **Apple App Store** and **Google Play** — in one app for Windows, macO
 &nbsp;
 [![Download for macOS](https://img.shields.io/badge/macOS-.dmg-2E6FF2?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/Sqeez-Studio/appsqeez-desktop/releases/latest)
 &nbsp;
-[![Download for Linux](https://img.shields.io/badge/Linux-.deb-2E6FF2?style=for-the-badge&logo=linux&logoColor=white)](https://github.com/Sqeez-Studio/appsqeez-desktop/releases/latest)
+[![Download for Linux](https://img.shields.io/badge/Linux-.deb%20%7C%20.rpm-2E6FF2?style=for-the-badge&logo=linux&logoColor=white)](https://github.com/Sqeez-Studio/appsqeez-desktop/releases/latest)
 
 </div>
 
@@ -41,6 +41,7 @@ Open the **[latest release](https://github.com/Sqeez-Studio/appsqeez-desktop/rel
 | **Windows** | `.msi` |
 | **macOS** | `.dmg` |
 | **Linux** (Debian / Ubuntu) | `.deb` |
+| **Linux** (Fedora) | `.rpm` |
 
 You only need one file. The **Source code** archives that GitHub adds to every release are not app installers.
 
@@ -65,11 +66,11 @@ You only need one file. The **Source code** archives that GitHub adds to every r
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <img src="assets/screenshots/competitors.webp" alt="Competitor comparison showing ranks for your app and competing apps per keyword">
+      <img src="assets/screenshots/competitors.webp" alt="Competitor comparison with a search visibility chart and ranking summaries for competing apps">
       <br>
       <b>Compare competitors</b>
       <br>
-      See how your app ranks next to competing apps for the same keywords and countries.
+      Compare search visibility and keyword positions, and see where competing apps outrank yours.
     </td>
     <td width="50%" valign="top">
       <img src="assets/screenshots/ratings.webp" alt="Ratings by country with a rating trend chart and history">
@@ -81,11 +82,43 @@ You only need one file. The **Source code** archives that GitHub adds to every r
   </tr>
   <tr>
     <td width="50%" valign="top">
+      <img src="assets/screenshots/discover.webp" alt="Discover showing related search topics and their relative size in an interactive keyword map">
+      <br>
+      <b>Discover search trends and app ideas</b>
+      <br>
+      Explore related terms in the Keyword Map and find new app ideas in Apple search data.
+    </td>
+    <td width="50%" valign="top">
+      <img src="assets/screenshots/opportunity-map.webp" alt="Opportunity Map with a world map and a country table showing keyword demand and difficulty">
+      <br>
+      <b>Find markets worth targeting</b>
+      <br>
+      Compare search demand and ranking difficulty by country for a keyword, an existing app, or a new app idea.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="assets/screenshots/reviews.webp" alt="Store reviews with sentiment scores and common issues alongside individual reviews">
+      <br>
+      <b>Spot recurring issues in reviews</b>
+      <br>
+      Read reviews by country and use sentiment and topic summaries to see what users praise or report.
+    </td>
+    <td width="50%" valign="top">
+      <img src="assets/screenshots/analytics.webp" alt="Store analytics dashboard showing downloads, revenue, subscriptions, and trends">
+      <br>
+      <b>Track downloads and revenue</b>
+      <br>
+      See downloads, revenue, subscriptions, trials, and refunds from App Store Connect, Google Play, RevenueCat, and Adapty.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <img src="assets/screenshots/screenshot-studio.webp" alt="Screenshot editor with a device frame, headline text, and a zoom callout">
       <br>
       <b>Design store screenshots</b>
       <br>
-      Build screenshots with device frames, backgrounds, text, and zoom callouts, then export them for your listing.
+      Build screenshots with device frames, backgrounds, text, and zoom callouts, then export a ZIP organized by locale and device.
     </td>
     <td width="50%" valign="top">
       <img src="assets/screenshots/store-listing.webp" alt="Store listing editor with character counters and version comparison">
@@ -101,7 +134,7 @@ You only need one file. The **Source code** archives that GitHub adds to every r
 - **Use your preferred AI provider.** Connect your own API keys or supported local models for help with keywords, listings, and screenshots. AI features require Premium; external providers may charge separately.
 - **Keep your work on your machine.** Workspaces, drafts, screenshots, and credentials are stored locally.
 
-See the **[full feature overview](https://appsqeez.com/features)** for details.
+See the **[full feature overview](https://getappsqeez.com/features)** for details.
 
 ## Install
 
@@ -120,13 +153,21 @@ See the **[full feature overview](https://appsqeez.com/features)** for details.
 
 ### Linux
 
-Download the `.deb` file from the latest release, then install it with your package manager:
+Download the package for your distribution from the latest release, then run the matching command.
+
+**Debian or Ubuntu**
 
 ```bash
-sudo apt install ./appsqeez*.deb
+sudo apt install ./AppSqeez-*.deb
 ```
 
-If your shell does not expand the filename, replace `appsqeez*.deb` with the exact downloaded file name.
+**Fedora**
+
+```bash
+sudo dnf install ./AppSqeez-*.rpm
+```
+
+If you have multiple versions in the same folder, use the exact filename of the package you want to install.
 
 ## Get started
 
@@ -135,7 +176,7 @@ If your shell does not expand the filename, replace `appsqeez*.deb` with the exa
 3. **Research keywords.** Explore suggestions and add the keywords you want to track.
 4. **Build your store presence.** Use the screenshot and listing tools, then follow your rankings as you refine your strategy.
 
-The **[getting started guide](https://appsqeez.com/docs/getting-started)** walks you through your first workspace.
+The **[getting started guide](https://getappsqeez.com/docs/getting-started)** walks you through your first workspace.
 
 ## Free and Premium
 
@@ -143,7 +184,7 @@ The **[getting started guide](https://appsqeez.com/docs/getting-started)** walks
 
 Premium unlocks unlimited apps and tracked keywords, additional competitor tracking, listing editing, watermark-free screenshot exports, AI features, and background jobs.
 
-See **[current pricing](https://appsqeez.com/pricing)** for the full Free vs Premium comparison. Already have a license? Open **Settings > License** in AppSqeez, paste your license key, and activate it.
+See **[current pricing](https://getappsqeez.com/pricing)** for the full Free vs Premium comparison. Already have a license? Open **Settings > License** in AppSqeez, paste your license key, and activate it.
 
 ## Updates
 
@@ -173,9 +214,9 @@ This release repository may contain unsigned installers during early distributio
 
 ## Help and feedback
 
-- **Guides:** [AppSqeez documentation](https://appsqeez.com/docs)
-- **Installation help:** [Download and install guide](https://appsqeez.com/docs/installing)
-- **Licenses and billing:** [Premium and licensing](https://appsqeez.com/docs/licensing)
+- **Guides:** [AppSqeez documentation](https://getappsqeez.com/docs)
+- **Installation help:** [Download and install guide](https://getappsqeez.com/docs/installing)
+- **Licenses and billing:** [Premium and licensing](https://getappsqeez.com/docs/licensing)
 - **Support and bug reports:** [support@appsqeez.com](mailto:support@appsqeez.com)
 
 When reporting a problem, include your AppSqeez version, operating system, what you were trying to do, and any error message. Remove license keys, API keys, and other private information from screenshots before sharing them.
@@ -186,6 +227,6 @@ When reporting a problem, include your AppSqeez version, operating system, what 
 
 This repository hosts AppSqeez Desktop installers and release notes only.
 
-[AppSqeez](https://appsqeez.com) · [Privacy Policy](https://appsqeez.com/privacy) · [Terms of Service](https://appsqeez.com/terms)
+[AppSqeez](https://getappsqeez.com) · [Privacy Policy](https://getappsqeez.com/privacy) · [Terms of Service](https://getappsqeez.com/terms)
 
 </div>
